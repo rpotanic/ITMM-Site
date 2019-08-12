@@ -6,6 +6,8 @@ import { hot } from 'react-hot-loader';
 
 import Route from '../route';
 
+import '../css/main.scss'
+
 class ReactComponent extends React.Component {
   constructor(props) {
     super(props);

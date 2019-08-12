@@ -1,0 +1,15 @@
+@import './guidlines.scss';
+
+body {
+  margin: 0;
+}
+
+#app {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+
+  min-height: 100vh;
+
+  background: $main-background;
+}
